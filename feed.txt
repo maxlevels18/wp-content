@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Middle East Architect</title>
+	<atom:link href="https://www.middleeastarchitect.com/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.middleeastarchitect.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 12 Dec 2022 09:50:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://www.middleeastarchitect.com/cloud/2021/08/03/favicon.png</url>
+	<title>Middle East Architect</title>
+	<link>https://www.middleeastarchitect.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>desert INK: A proponent for positive change in the landscape industry</title>
+		<link>https://www.middleeastarchitect.com/news/desert-ink-a-proponent-for-positive-change-in-the-landscape-industry</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 09:50:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Insight]]></category>
+		<category><![CDATA[desert INK]]></category>
+		<category><![CDATA[Expo 2020 Dubai]]></category>
+		<category><![CDATA[Laandscape]]></category>
+		<category><![CDATA[native plants]]></category>
+		<category><![CDATA[sustainbaility]]></category>
+		<category><![CDATA[TERRA]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34857</guid>
+
+					<description><![CDATA[<figure><img width="800" height="600" src="https://www.middleeastarchitect.com/cloud/2022/11/30/2.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.middleeastarchitect.com/cloud/2022/11/30/2-768x576.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/11/30/uZsM0ao9-2-400x300.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/11/30/2-200x150.jpg 200w, https://www.middleeastarchitect.com/cloud/2022/11/30/2.jpg 800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34857</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Egis acquires architectural firm U+A</title>
+		<link>https://www.middleeastarchitect.com/news/egis-acquires-architectural-firm-ua</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Tue, 06 Dec 2022 15:05:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34883</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="677" src="https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-1000x677.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-1000x677.png 1000w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-1024x693.png 1024w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-768x520.png 768w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-1536x1039.png 1536w, https://www.middleeastarchitect.com/cloud/2022/12/06/36IWeDen-UA-Egis-Acquisition-Large-1200x900.png 1200w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-400x271.png 400w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large-1568x1061.png 1568w, https://www.middleeastarchitect.com/cloud/2022/12/06/UA-Egis-Acquisition-Large.png 1596w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34883</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Big 5 to explore the challenges pertaining to the design and construction industry</title>
+		<link>https://www.middleeastarchitect.com/news/big5-construction-dubai</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 10:07:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34876</guid>
+
+					<description><![CDATA[<figure><img width="900" height="600" src="https://www.middleeastarchitect.com/cloud/2022/12/05/ofexperiences-jpg.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://www.middleeastarchitect.com/cloud/2022/12/05/ofexperiences-jpg-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/12/05/ofexperiences-jpg-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/12/05/ofexperiences-jpg.jpg 900w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34876</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Holidays for the UAE announced for 2022</title>
+		<link>https://www.middleeastarchitect.com/news/holidays-for-uae-public-2022</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 08:48:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=30164</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="653" src="https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920-1000x653.jpg" class="attachment-medium size-medium wp-post-image" alt="UAE 2022 holidays announced/ PCR" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920-1000x653.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920-1024x669.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920-768x501.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/01/04/z1uR5a13-dubai-g7b310485f_1920-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920-400x261.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/01/04/dubai-g7b310485f_1920.jpg 1495w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>30164</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Reem Emirates Saudi to build sustainable facades for Red Sea Global</title>
+		<link>https://www.middleeastarchitect.com/news/reem-emirates-saudi-facade</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 08:09:44 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Foster and Partners]]></category>
+		<category><![CDATA[KSA]]></category>
+		<category><![CDATA[LEED]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34845</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="707" src="https://www.middleeastarchitect.com/cloud/2022/11/25/2-1000x707.jpg" class="attachment-medium size-medium wp-post-image" alt="Red Sea Global" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/11/25/2-1000x707.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-1024x724.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-768x543.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-1536x1086.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-2048x1448.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/11/25/SUwcIe6n-2-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-400x283.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-1568x1109.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/11/25/2-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34845</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Architectural event &#8211; Everything Architecture, makes its debut in the UAE</title>
+		<link>https://www.middleeastarchitect.com/conference/everything-architecture-uae</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Wed, 23 Nov 2022 07:53:43 +0000</pubDate>
+				<category><![CDATA[Conference]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34839</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="668" src="https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1000x668.jpg" class="attachment-medium size-medium wp-post-image" alt="eVERYTHING ARCHITECTURE" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1000x668.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1024x684.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-768x513.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1536x1026.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/11/23/d0o9niuj-The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec-1568x1047.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/11/23/The-Shed-at-Hudson-Yard-by-Vector-Foiltec.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34839</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Around the World: Timber Bridge in Gulou Waterfront by LUO Studio</title>
+		<link>https://www.middleeastarchitect.com/projects/atw-timber-bridge</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 14:07:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[ATW]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Gulou Waterfront]]></category>
+		<category><![CDATA[LUO Studio]]></category>
+		<category><![CDATA[timber bridge]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=33776</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="Timber Bridge - China" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-1024x682.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-1536x1024.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/04/25/se2NV8Ez-72955-full_4713-1_72955_sc_v2com-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-1568x1045.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/04/25/72955-full_4713-1_72955_sc_v2com-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>This week we look at Timber Bridge in Gulou Waterfront combines traditional and modern elements
+
+]]></description>
+		
+		
+		
+		<post-id>33776</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Japanese digital art collective teamLab to create a home for curiosity on Saadiyat Island Abu Dhabi by 2024</title>
+		<link>https://www.middleeastarchitect.com/insight/teamlab-saadiyat-island</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 14:20:41 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[Abu Dhabi]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[digital art]]></category>
+		<category><![CDATA[interior design]]></category>
+		<category><![CDATA[teamLab]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34466</guid>
+
+					<description><![CDATA[<figure><img width="640" height="426" src="https://www.middleeastarchitect.com/cloud/2022/06/29/team-Lab.jpg" class="attachment-medium size-medium wp-post-image" alt="teamLab Phenomena Abu Dhabi building in Saadiyat Cultural District. Source: Department of Culture and Tourism – Abu Dhabi (DCT Abu Dhabi)" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/06/29/team-Lab-400x266.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/06/29/team-Lab.jpg 640w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34466</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Around the World: MB Residence in Canada by Studio Jean Verville architectes </title>
+		<link>https://www.middleeastarchitect.com/projects/mb-residences-canada</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 14:29:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[ATW]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[Le Pierre Rénovation]]></category>
+		<category><![CDATA[MB Residence]]></category>
+		<category><![CDATA[Montreal]]></category>
+		<category><![CDATA[Studio Jean Verville Architectes]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=32852</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="MB Residence by Studio Jean Verville Architectes" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-1024x683.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-1536x1024.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-2048x1365.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/04/10/QuC0t4iC-72479-main_1010-15_72479_sc_v2com-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-1568x1045.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/04/10/72479-main_1010-15_72479_sc_v2com-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>This week we look at MB Residence: a Montreal cottage providing a sculptural experience.
+]]></description>
+		
+		
+		
+		<post-id>32852</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Rony Hobeika from Atkins talks about the advent of sustainable urban renewal in the GCC</title>
+		<link>https://www.middleeastarchitect.com/people/sustainable-urban-renewal</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 07:18:28 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[Qatar]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34794</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="Sustainable urban renewal is crucial. Image from unsplash" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-1024x682.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-1536x1024.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-2048x1365.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/11/15/ry3afYOZ-paula-prekopova-Mt9DbRm2KmA-unsplash-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-1568x1045.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/11/15/paula-prekopova-Mt9DbRm2KmA-unsplash-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Rony Hobeika talks about the transition of urban development and the need for sustainable urban renewal.]]></description>
+		
+		
+		
+		<post-id>34794</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Stefano Boeri Architetti unveils vertical forest concept for Dubai towers at COP 27</title>
+		<link>https://www.middleeastarchitect.com/insight/stefano-boeri-unveils-vertical-forest-concept-for-dubai-towers-at-cop-27</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2022 07:34:28 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[construction]]></category>
+		<category><![CDATA[COP 27]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[Stefano Boeri]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34776</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1024x683.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1536x1025.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/11/11/cTsdBv8V-SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-1568x1046.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/11/11/SBA_DUBAI-VERTICAL-FOREST_01-1-scaled-1-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>The Boeri studio has a reputation for developing projects that host plants since its first prototype conceptualising the same for Milan in 2014]]></description>
+		
+		
+		
+		<post-id>34776</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Keep up with the A+D industry in 2022 with Middle East Architect social media platforms</title>
+		<link>https://www.middleeastarchitect.com/insight/mea-social-media-platforms</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2022 05:59:47 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[Abu Dhabi]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[Expo 2020 Dubai]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[UAE]]></category>
+		<category><![CDATA[United Arab Emirates]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=32362</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="676" src="https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280-1000x676.png" class="attachment-medium size-medium wp-post-image" alt="MEA Social Media" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280-1000x676.png 1000w, https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280-1024x692.png 1024w, https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280-768x519.png 768w, https://www.middleeastarchitect.com/cloud/2022/03/07/JVnfR8KV-email-gcf5079b83_1280-1200x865.png 1200w, https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280-400x270.png 400w, https://www.middleeastarchitect.com/cloud/2022/03/07/email-gcf5079b83_1280.png 1280w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Make sure to be in the loop of things by following us on our social media platforms.]]></description>
+		
+		
+		
+		<post-id>32362</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Around the World: Mirai House of Arches by Sanjay Puri Architects</title>
+		<link>https://www.middleeastarchitect.com/projects/atw-sanjay-puri-architects</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 09:39:44 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ATW]]></category>
+		<category><![CDATA[Mirai House of Arches]]></category>
+		<category><![CDATA[residential project]]></category>
+		<category><![CDATA[Sanjay Puri Architects]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34491</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/07/18/74509-preview_low_1432-16_74509_sc_v2com.jpg" class="attachment-medium size-medium wp-post-image" alt="Mirai House of Arches by Sanjay Puri Architects" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/07/18/74509-preview_low_1432-16_74509_sc_v2com-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/07/18/74509-preview_low_1432-16_74509_sc_v2com-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/07/18/74509-preview_low_1432-16_74509_sc_v2com.jpg 1000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>This week we look at Mirai House of Arches by Sanjay Puri Architects
+
+]]></description>
+		
+		
+		
+		<post-id>34491</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Landscape architecture firm plenerr on developing a sustainable outdoor experience</title>
+		<link>https://www.middleeastarchitect.com/projects/landscape-architect-plenerr-on-developing-a-sustainable-outdoor-experience</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Wed, 02 Nov 2022 10:29:52 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[boutique resort]]></category>
+		<category><![CDATA[Hatta]]></category>
+		<category><![CDATA[LAMI Architects]]></category>
+		<category><![CDATA[plenerr]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34722</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="563" src="https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-1000x563.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-1000x563.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-1024x576.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-768x432.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-1536x864.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-2048x1152.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/10/24/srnK3H53-1_1-Photo-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-400x225.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-1568x882.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/10/24/1_1-Photo-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>plenerr is assisting LAMI Architects to develop a sustainable outdoor design for a 45,000 m2 boutique resort project in Hatta, UAE]]></description>
+		
+		
+		
+		<post-id>34722</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>SEDRA by ROSHN: Inspired by tradition yet meeting modern needs</title>
+		<link>https://www.middleeastarchitect.com/news/sedra-by-roshn-inspired-by-tradition-yet-meeting-modern-needs</link>
+		
+		<dc:creator><![CDATA[distributor]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 12:32:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34868</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+		<post-id>34868</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Egis and CERTIFER appointed as an Independent Safety Assessor for NEOM’s THE LINE urban development project</title>
+		<link>https://www.middleeastarchitect.com/news/egis-and-certifer-appointed-as-an-independent-safety-assessor-for-neoms-the-line-urban-development-project</link>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 14:15:31 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34769</guid>
+
+					<description><![CDATA[<figure><img width="800" height="600" src="https://www.middleeastarchitect.com/cloud/2021/08/04/kaec.jpg" class="attachment-medium size-medium wp-post-image" alt="Saudi&#039;s Neom development to complement 2006 project KAEC, says CEO" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2021/08/04/kaec.jpg 800w, https://www.middleeastarchitect.com/cloud/2021/08/04/kaec-400x239.jpg 400w, https://www.middleeastarchitect.com/cloud/2021/08/04/kaec-200x150.jpg 200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>THE LINE is a linear urban development of hyperconnected communities with walkable neighbourhoods, powered by 100% renewable energy.]]></description>
+		
+		
+		
+		<post-id>34769</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Z workstations by HP are set to be a game-changer for designers and architects</title>
+		<link>https://www.middleeastarchitect.com/insight/z-workstations-hp</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 14:39:26 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[AEC]]></category>
+		<category><![CDATA[BIM]]></category>
+		<category><![CDATA[Building Information Modeling]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[HPC]]></category>
+		<category><![CDATA[Killa Design]]></category>
+		<category><![CDATA[Museum of the Future]]></category>
+		<category><![CDATA[Shaun Killa]]></category>
+		<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[Z workstations]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=33956</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="Z workstations" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-1024x683.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-1536x1024.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-2048x1366.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/05/11/4fqS1uzi-Z-by-HP_Lifestyle_Photo-3-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-1568x1046.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/05/11/Z-by-HP_Lifestyle_Photo-3-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Powered by Intel® Core™ Processors, Z workstations by HP are great to power through your heaviest workloads. ]]></description>
+		
+		
+		
+		<post-id>33956</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>DAMAC Properties to accept cryptocurrency as payment for its projects</title>
+		<link>https://www.middleeastarchitect.com/insight/damac-bitcoin</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 14:10:38 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[payment]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=33829</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="667" src="https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-1000x667.jpg" class="attachment-medium size-medium wp-post-image" alt="DAMAC Properties cryptocurrency" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-1000x667.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-1024x683.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-768x512.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-1536x1024.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-2048x1365.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/04/28/krMYiq95-dmitry-demidko-OG3A-ilG8AY-unsplash-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-400x267.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-1568x1045.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/04/28/dmitry-demidko-OG3A-ilG8AY-unsplash-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Previously Damac Group had announced that it would invest $100 million in building digital cities in the metaverse.]]></description>
+		
+		
+		
+		<post-id>33829</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>URB unveils designs for the largest sustainable city in Africa</title>
+		<link>https://www.middleeastarchitect.com/projects/urb-the-parks-africa</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 06:14:40 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[sustainable cities]]></category>
+		<category><![CDATA[UAE]]></category>
+		<category><![CDATA[URB]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34748</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="750" src="https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-1000x750.jpg" class="attachment-medium size-medium wp-post-image" alt="URB - The Parks" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-1000x750.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-1024x768.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/10/26/MbCMahoZ-THE-PARKS_Aerial-1_URB-800x600.jpg 800w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-768x576.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-1536x1152.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/10/26/MbCMahoZ-THE-PARKS_Aerial-1_URB-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/10/26/MbCMahoZ-THE-PARKS_Aerial-1_URB-400x300.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-200x150.jpg 200w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB-1568x1176.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/10/26/THE-PARKS_Aerial-1_URB.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>As per URB, the city will provide sustainable living for 150,000 residents and is also expected to produce 100% of its energy, water &#038; food.]]></description>
+		
+		
+		
+		<post-id>34748</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>AlUla in KSA unveils artists taking part in 12-week residency program</title>
+		<link>https://www.middleeastarchitect.com/news/alula-ksa-artists</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 11:25:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[AlUla]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[KSA]]></category>
+		<category><![CDATA[Saudi Arabia]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34717</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="561" src="https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1000x561.jpg" class="attachment-medium size-medium wp-post-image" alt="Alula" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1000x561.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1024x574.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-768x431.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1536x861.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-2048x1149.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/10/20/uKJKMsPJ-5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-400x224.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-1568x879.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/10/20/5bbd98ec-ef7d-e811-90f4-e3a3d37b1aef-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Six artists from around the world have been selected to decorate the Kingdom’s new tourist location.]]></description>
+		
+		
+		
+		<post-id>34717</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Gensler announces new Middle East senior appointments</title>
+		<link>https://www.middleeastarchitect.com/appointments/global-architecture-firm-gensler-announces-new-mideast-senior-appointments</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 12:33:00 +0000</pubDate>
+				<category><![CDATA[Appointments]]></category>
+		<category><![CDATA[appointments]]></category>
+		<category><![CDATA[Gensler]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34698</guid>
+
+					<description><![CDATA[<figure><img width="640" height="426" src="https://www.middleeastarchitect.com/cloud/2022/10/17/ltor_stephaniekinnick_operationsdirector-timmartin_managingdirector-thomaswilliams_studiodirector-arthibalasubramanian_studiodirector-jpg.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/17/ltor_stephaniekinnick_operationsdirector-timmartin_managingdirector-thomaswilliams_studiodirector-arthibalasubramanian_studiodirector-jpg-400x266.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/10/17/ltor_stephaniekinnick_operationsdirector-timmartin_managingdirector-thomaswilliams_studiodirector-arthibalasubramanian_studiodirector-jpg.jpg 640w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Gensler's appointments act as a significant growth marker for its middle east operations]]></description>
+		
+		
+		
+		<post-id>34698</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>&#8220;Sophisticated, generous, architecture that has been built to last&#8221; says RIBA&#8217;s Simon Allford on Stirling prize winner The New Library</title>
+		<link>https://www.middleeastarchitect.com/projects/sophisticated-generous-architecture-that-has-been-built-to-last-says-ribas-simon-allford-on-stirling-prize-winner-the-new-library</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 17:31:11 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Cambridge]]></category>
+		<category><![CDATA[Magdalene College in Cambridge]]></category>
+		<category><![CDATA[Simon Allford]]></category>
+		<category><![CDATA[Stirling Prize]]></category>
+		<category><![CDATA[The New Library]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34669</guid>
+
+					<description><![CDATA[<figure><img width="700" height="455" src="https://www.middleeastarchitect.com/cloud/2022/10/14/Magdalene-Library3Nick-KanePRESS-700x455pxJPG.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/14/Magdalene-Library3Nick-KanePRESS-700x455pxJPG-400x260.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/10/14/Magdalene-Library3Nick-KanePRESS-700x455pxJPG.jpg 700w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Níall McLaughlin Architects honours the rich surrounding history and has created a modern library which combines an archive and art gallery.]]></description>
+		
+		
+		
+		<post-id>34669</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>World&#8217;s first ever Pagani-inspired residential apartment unveiled in Dubai</title>
+		<link>https://www.middleeastarchitect.com/news/worlds-first-ever-pagani-inspired-residential-apartment-unveiled-in-dubai</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ksa]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Dar Al Arkan]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<category><![CDATA[Pagani Automobili]]></category>
+		<category><![CDATA[Saudi Arabia]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34651</guid>
+
+					<description><![CDATA[<figure><img width="678" height="687" src="https://www.middleeastarchitect.com/cloud/2022/10/13/DVT_sunset_close_up_.webp" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/13/DVT_sunset_close_up_-400x405.webp 400w, https://www.middleeastarchitect.com/cloud/2022/10/13/DVT_sunset_close_up_.webp 678w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Pagani’s signature style will be weaved in at all corners of the apartment, with every room having a distinct character.]]></description>
+		
+		
+		
+		<post-id>34651</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Dubai Design Week to return from 8-13 November at d3, to focus on &#8220;designing a sustainable future&#8221;</title>
+		<link>https://www.middleeastarchitect.com/events/dubai-design-week-to-return-in-november-at-d3-focusing-on-sustainable-future</link>
+		
+		<dc:creator><![CDATA[angitha.pradeep]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 14:15:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[d3]]></category>
+		<category><![CDATA[downtown design]]></category>
+		<category><![CDATA[Dubai Design Week]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34608</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="618" src="https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-1000x618.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-1000x618.png 1000w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-1024x633.png 1024w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-768x474.png 768w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-1536x949.png 1536w, https://www.middleeastarchitect.com/cloud/2022/10/10/gqERyVHt-image-001-1200x900.png 1200w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-400x247.png 400w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001-1568x969.png 1568w, https://www.middleeastarchitect.com/cloud/2022/10/10/image-001.png 1988w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>The platform demonstrates Dubai’s commitment to design and is scheduled to take place at d3 – a regional hub for art, design, fashion, and architecture.]]></description>
+		
+		
+		
+		<post-id>34608</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>10 contemporary mosques that challenge traditional Islamic architecture</title>
+		<link>https://www.middleeastarchitect.com/insight/42021-top-10-latest-contemporary-mosques-from-around-the-world</link>
+					<comments>https://www.middleeastarchitect.com/insight/42021-top-10-latest-contemporary-mosques-from-around-the-world#comments</comments>
+		
+		<dc:creator><![CDATA[Staff Writer]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 07:48:59 +0000</pubDate>
+				<category><![CDATA[Insight]]></category>
+		<category><![CDATA[contemporary mosque]]></category>
+		<category><![CDATA[Islamic architecture]]></category>
+		<category><![CDATA[mosque]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/uncategorized/42021-top-10-latest-contemporary-mosques-from-around-the-world</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="690" src="https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-1000x690.jpg" class="attachment-medium size-medium wp-post-image" alt="Top 10 contemporary mosques that challenge traditional Islamic architecture" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-1000x690.jpg 1000w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-1024x707.jpg 1024w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-768x530.jpg 768w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-1536x1060.jpg 1536w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-2048x1414.jpg 2048w, https://www.middleeastarchitect.com/cloud/2021/08/04/lCNcIt18-dandaji-mosque-atelier-masomi_6_1-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-400x276.jpg 400w, https://www.middleeastarchitect.com/cloud/2021/08/04/dandaji-mosque-atelier-masomi_6_1-1568x1082.jpg 1568w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>We are looking at some of the contemporary mosques from around the world, that highlight innovative uses of forms and materials through context and locality. ]]></description>
+		
+					<wfw:commentRss>https://www.middleeastarchitect.com/insight/42021-top-10-latest-contemporary-mosques-from-around-the-world/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id>4646</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Around the World: Hotel Maestoso in Slovenia by ENOTA</title>
+		<link>https://www.middleeastarchitect.com/projects/maestoso-slovenia-enota</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 05:04:28 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ATW]]></category>
+		<category><![CDATA[ENOTA]]></category>
+		<category><![CDATA[Hotel Maestoso]]></category>
+		<category><![CDATA[Slovenia]]></category>
+		<category><![CDATA[The Stud Farm Lipica]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=32467</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="665" src="https://www.middleeastarchitect.com/cloud/2022/03/13/71884-preview_low_3053-2_71884_sc_v2com.jpg" class="attachment-medium size-medium wp-post-image" alt="ENOTA - Hotel Maestoso" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/03/13/71884-preview_low_3053-2_71884_sc_v2com-768x511.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/03/13/71884-preview_low_3053-2_71884_sc_v2com-400x266.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/03/13/71884-preview_low_3053-2_71884_sc_v2com.jpg 1000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>This week we look at Hotel Maetoso: a hotel that connects to a monument in Slovenia
+
+]]></description>
+		
+		
+		
+		<post-id>32467</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Looking back at the top 5 projects by Max Fordham</title>
+		<link>https://www.middleeastarchitect.com/people/max-fordham-projects</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 09:04:33 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[Architect]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[Max Fordham]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=30364</guid>
+
+					<description><![CDATA[<figure><img width="816" height="750" src="https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium-816x750.jpg" class="attachment-medium size-medium wp-post-image" alt="mAX fORDHAM - Tate Ives gallery" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium-816x750.jpg 816w, https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium-1024x941.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium-768x706.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/01/12/IheHGID7-J4582_N10_medium-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium-400x368.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/01/12/J4582_N10_medium.jpg 1224w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Often referred to as ‘the pioneer of sustainable design’, Fordham’s designs were human-centric and crafted for the comfort of the person whilst taking care of its surroundings.
+]]></description>
+		
+		
+		
+		<post-id>30364</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Curator for UAE&#8217;s particiaption at La Biennale di Venezia in 2023 announced</title>
+		<link>https://www.middleeastarchitect.com/news/international-la-biennale</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2022 07:02:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34591</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="659" src="https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1000x659.jpg" class="attachment-medium size-medium wp-post-image" alt="National Pavilion - UAE" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1000x659.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1024x675.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-768x506.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1536x1012.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-2048x1350.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/09/29/SgcD8xGl-Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-400x264.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-1568x1034.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/09/29/Image-courtesy-of-National-Pavilion-UAE-La-Biennale-di-Venezia_Photo-By-Faysal-Tabbara-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>The selected research proposal by Tabbarah aims to explore the relationship between architecture and arid, or dry, landscapes in the UAE and reimagine them as spaces of abundance and productivity. ]]></description>
+		
+		
+		
+		<post-id>34591</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>HKS Architects named design consultant for RAK resort</title>
+		<link>https://www.middleeastarchitect.com/projects/hks-architect-rak</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 07:43:16 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Al Marjan Island]]></category>
+		<category><![CDATA[HKS Architects]]></category>
+		<category><![CDATA[Marjan]]></category>
+		<category><![CDATA[RAK]]></category>
+		<category><![CDATA[RAK Hospitality]]></category>
+		<category><![CDATA[Ras Al Khaimah]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=33927</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="563" src="https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-1000x563.jpg" class="attachment-medium size-medium wp-post-image" alt="HKS Architects - RAK" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-1000x563.jpg 1000w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-1024x576.jpg 1024w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-768x432.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-1536x864.jpg 1536w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-2048x1152.jpg 2048w, https://www.middleeastarchitect.com/cloud/2022/05/09/RGVJoMhR-marvin-castelino-YppgsI17UzE-unsplash-1200x900.jpg 1200w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-400x225.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-1568x882.jpg 1568w, https://www.middleeastarchitect.com/cloud/2022/05/09/marvin-castelino-YppgsI17UzE-unsplash-scaled.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>HKS Architects was appointed to develop the concept and design of the new Wynn Integrated Resort ]]></description>
+		
+		
+		
+		<post-id>33927</post-id><post-type>post</post-type>	</item>
+		<item>
+		<title>Sharjah Architecture Triennial announces the theme of 2023 edition</title>
+		<link>https://www.middleeastarchitect.com/news/sharjah-architecture-triennial-announces-the-theme-of-2023-edition</link>
+		
+		<dc:creator><![CDATA[Suha Sabith]]></dc:creator>
+		<pubDate>Mon, 19 Sep 2022 10:25:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.middleeastarchitect.com/?p=34584</guid>
+
+					<description><![CDATA[<figure><img width="1000" height="600" src="https://www.middleeastarchitect.com/cloud/2022/09/19/a3ddcda0e92ebdb209f1188e674deb5a.jpg" class="attachment-medium size-medium wp-post-image" alt="Sharjah Triennial 2023" decoding="async" loading="lazy" srcset="https://www.middleeastarchitect.com/cloud/2022/09/19/a3ddcda0e92ebdb209f1188e674deb5a-768x461.jpg 768w, https://www.middleeastarchitect.com/cloud/2022/09/19/a3ddcda0e92ebdb209f1188e674deb5a-400x240.jpg 400w, https://www.middleeastarchitect.com/cloud/2022/09/19/a3ddcda0e92ebdb209f1188e674deb5a.jpg 1000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>]]></description>
+		
+		
+		
+		<post-id>34584</post-id><post-type>post</post-type>	</item>
+	</channel>
+</rss>
